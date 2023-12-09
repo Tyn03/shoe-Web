@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shoe-Web/static/css/main.ff0d48a3.css",
+    "main.js": "/shoe-Web/static/js/main.3edbbc23.js",
+    "index.html": "/shoe-Web/index.html",
+    "main.ff0d48a3.css.map": "/shoe-Web/static/css/main.ff0d48a3.css.map",
+    "main.3edbbc23.js.map": "/shoe-Web/static/js/main.3edbbc23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff0d48a3.css",
+    "static/js/main.3edbbc23.js"
+  ]
+}
